@@ -1,1 +1,1 @@
-
+O classificador SVC apresentou melhor desempenho em geral atingindo aproximadamente 97% de acurácia, com um otimo equilíbrio entre precisão e revocação em todas as classes. O Random Forest obteve desempenho equivalente, mostrando alta robustez e estabilidade. Já a Regressão Logística apresentou desempenho inferior (cerca de 92%). Os resultados evidenciam a diferença nas métricas produzidas por diferentes tipos de classificadores.
